@@ -1,0 +1,27 @@
+body   {
+    background-image:radial-gradient(farthest-side at 40%,lightgrey,white,grey);
+   }
+.emailusername{
+    display:inline-block;
+    border-radius:10px;
+    width:150px;
+    color:gold;
+    font-size:20px;
+    font-family:cursive;
+    background-color:#00099F;
+}
+.emailusername1{
+    display:center;
+    border-radius:10px;
+    margin-top:20px;
+    padding-top:10px;
+    color:gold;
+    font-size:20px;
+    font-family:cursive;
+    background-color:#00099F
+    }
+.sendbutton{
+    border-radius:30px;
+    width:60px;
+    height:60px;
+}
